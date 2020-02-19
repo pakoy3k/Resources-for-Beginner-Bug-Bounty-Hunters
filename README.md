@@ -1,10 +1,11 @@
-# Resources-for-Beginner-Bug-Bounty-Hunters
+# Recursos-para-Cazadores-de-Recompenzas-de-Bugs-Principiantes
 
-## Intro
+## Introduccion
 
-There are a number of new hackers joining the community on a regular basis and more than often the first thing they ask is "How do I get started and what are some good resources?". As a hacker, there a ton of techniques, terminologies, and topics you need to familiarize yourself with to understand how an application works. Cody Brocious [(@daeken)](http://twitter.com/daeken), [@0xAshFox](https://twitter.com/0xAshFox), and I put these resources together in order to help new hackers with resources to learn the basics of Web Application Security. 
+Hay un gran numero de nuevos Hackers entrando a la comunidad de forma regular y la pregunta que mas hacen es "Como puedo iniciar y donde hay buenos recursos?". Como hacker existen toneladas de tecnicas, terminologias y temas con los que ocupas familiarizarte para entender como funcionan realmente.
+ Cody Brocious [(@daeken)](http://twitter.com/daeken), [@0xAshFox](https://twitter.com/0xAshFox), Y yo "[(@NahamSec)](https://twitter.com/NahamSec)" reunimos y ordenamos estos recursos para ayudar s los nuevos hackers para que puedan aprender las bases en Seguridad de Aplicaciones WEB. 
 
-We understand that there are more resources other than the ones we have listed and we hope to cover more resources in the near future!<br>
+Nosotros sabemos que existe mas recursos de los que reunimos aqui, pero esperamos cubrir mas recursos en un futuro cercano!<br>
 
 ## Current Version: 2020.02 
 
@@ -13,11 +14,11 @@ We understand that there are more resources other than the ones we have listed a
 ---
 ## Table of Contents
 
-1. [Basics](/assets/basics.md)
-2. [Setup](/assets/setup.md)
-3. [Tools](/assets/tools.md)
-4. [Labs & Testing Environments](/assets/labs.md)
-5. [Vulnerability Types](/assets/vulns.md)
-6. [Mobile Hacking](/assets/mobile.md)
-6. [Blog posts & Talks](/assets/blogposts.md)
-7. [Media Resources](/assets/media.md)
+1. [Bases](/assets/basics.md)
+2. [Instalacion](/assets/setup.md)
+3. [Herramientas](/assets/tools.md)
+4. [Laboratorios & Ambientes de Prueba](/assets/labs.md)
+5. [Tipos de Vulnerabilidades](/assets/vulns.md)
+6. [Hackear Moviles](/assets/mobile.md)
+6. [Publicaciones & Platicas](/assets/blogposts.md)
+7. [Medios de Comunicacion](/assets/media.md)
